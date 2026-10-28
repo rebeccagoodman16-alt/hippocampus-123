@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional: needed when porting active kinetics to Brian2.
+brian2>=2.7,<3
